@@ -4,6 +4,8 @@
 
 例程见 `example.py` 
 
+一个使用实例：[USTC-Teacher-Email](https://github.com/txtxj/USTC-Teacher-Email)
+
 获取 `CAS_LT` 部分取自 [Kobe972/ustc-passport-login](https://github.com/Kobe972/ustc-passport-login) 
 
 该脚本能够绕过验证码并登录教务系统
